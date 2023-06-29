@@ -1,5 +1,8 @@
 #! /bin/bash
 
+#printing leap years from given years 
+
+
 echo " enter first year"
 
 read first
